@@ -17,3 +17,12 @@ public attributions page (open-source acknowledgements).
 Source of truth for edits lives in the main SisuMate repo at `legal/` — copy
 changes over from there rather than editing this repo directly, so the two
 don't drift.
+
+## License
+
+The page source (HTML/CSS) in this repo is licensed under the
+[Apache License 2.0](LICENSE), like the main
+[SisuMate](https://github.com/Cadburies/SisuMate) repo. Copyright 2026 Frik Olivier.
+The "Sisu Mate" / "Sailing Sisu" names, logo and `feature-graphic.png` are not
+licensed for reuse (Apache 2.0 §6). The policy texts describe the app's terms;
+they are not an offer to relicense the app or its data.
